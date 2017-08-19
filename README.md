@@ -10,6 +10,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Implemented a custom Asterisk Pipe which enables whenever user types something in input textbox , the p tag below the input box will append * after each character.
 
+After downloading or cloning the project , Goto project directory where package.json file exits and fire 
+npm install. Once npm install all packages just fire ng serve.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
